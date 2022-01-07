@@ -1,0 +1,116 @@
+@media screen and (max-width: 640px) {
+ 
+  img{
+  max-width: 100%;
+  height: auto;
+  width /***/:auto;
+  }
+
+body{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-bottom: 5px solid orange;
+}
+
+h2{
+  margin-top:40px;
+  margin-bottom: 20px;
+}
+
+h3{
+  display: inline-block;
+  border-bottom: solid;
+  border-color: orange;
+}
+
+li{
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+a{
+  text-decoration:none;
+}
+
+span{
+  border-bottom:solid;
+  border-width: 2px;
+  border-color: red;
+}
+
+.pa{
+  width: 300px;
+  height: 200px;
+  flex-grow: 1;
+}
+
+.mado{
+  width: 250px;
+  height: 300px;
+}
+.madosyo{
+  width: 400px;
+  height: 250px;
+}
+
+.container{
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.shu{
+  width: 200px;
+  height:400px;
+  flex-grow: 1;
+}
+
+.co{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: solid;
+  border-radius: 30px;
+  width: 500px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgb(236, 236, 236);
+}
+
+.center{
+  list-style: disc;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.border{
+  border-top: solid;
+  border-bottom: solid;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  border-width: 2px;
+}
+
+.irasuto{
+  width:200px;
+  height: 200px;
+}
+
+
+.padding{
+  margin-top: 40px;
+}
+
+#su{
+  margin-left: 10px;
+}
+}
