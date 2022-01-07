@@ -48,18 +48,18 @@ span{
 }
 
 .pa{
-  width: 300px;
-  height: 200px;
+  width: 150px;
+  height: 100px;
   flex-grow: 1;
 }
 
 .mado{
-  width: 250px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
 }
 .madosyo{
-  width: 400px;
-  height: 250px;
+  width: 200px;
+  height: 120px;
 }
 
 .container{
@@ -68,8 +68,8 @@ span{
 }
 
 .shu{
-  width: 200px;
-  height:400px;
+  width: 120px;
+  height:200px;
   flex-grow: 1;
 }
 
@@ -79,7 +79,7 @@ span{
   flex-direction: column;
   border: solid;
   border-radius: 30px;
-  width: 500px;
+  width: 300px;
   margin-left: 20%;
   margin-right: 20%;
   background-color: rgb(236, 236, 236);
